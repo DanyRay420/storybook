@@ -126,7 +126,7 @@
     "execa": "^6.1.0",
     "express": "^4.17.3",
     "fast-folder-size": "^2.1.0",
-    "fast-glob": "^3.2.12",
+    "fast-glob": "^3.3.3",
     "find-up": "^5.0.0",
     "fs-extra": "^11.1.0",
     "github-release-from-changelog": "^2.1.1",
